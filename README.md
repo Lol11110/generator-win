@@ -1,3 +1,3 @@
 # The project generator-win
-This is my project for definitions winner in contest
-he chooses random number
+1.This is my project for definitions winner in contest
+2.he chooses random number
